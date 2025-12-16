@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "PPPP（feat. Hatsune Miku、Kasane Teto）",
+  "base_artist": "TAK",
+  "createdAt": "2025-12-16T17:29:03.432413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/01_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku & Kasane Teto)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/02_PPPP_(feat._Hatsune_Miku_&_Kasane_Teto)_TAK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK, 初音ミク, Kasane Teto",
+      "has_synced": true,
+      "path": "select/03_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK,_初音ミク,_Kasane_Teto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "Tak; Hatsune Miku; Kasane Teto",
+      "has_synced": true,
+      "path": "select/04_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_Tak;_Hatsune_Miku;_Kasane_Teto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK, 初音ミク, Kasane Teto",
+      "has_synced": false,
+      "path": "select/pl_01_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK,_初音ミク,_Kasane_Teto.txt"
+    }
+  ]
+}
